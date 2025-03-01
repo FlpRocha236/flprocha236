@@ -1,8 +1,8 @@
 <div align="center">
 ### Olá! Eu sou Felipe Rocha 👋
 
-- 🔭 Atualmente trabalho na garantia da qualidade em uma empresa do ramo alimentício
-- 🌱 Estou cursando Desenvolvimento de Software Multiplataforma na FATEC Araras
+ 🔭 Atualmente trabalho na garantia da qualidade em uma empresa do ramo alimentício
+ 🌱 Estou cursando Desenvolvimento de Software Multiplataforma na FATEC Araras
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flprocha236&show_icons=true&theme=radical)
 
