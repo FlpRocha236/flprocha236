@@ -1,3 +1,4 @@
+<div align="center">
 ### Olá! Eu sou Felipe Rocha 👋
 
 - 🔭 Atualmente trabalho na garantia da qualidade em uma empresa do ramo alimentício
@@ -36,4 +37,5 @@
   <a href = "mailto:feliprocha196@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-rafael-rocha-4b4081245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
 </div>
