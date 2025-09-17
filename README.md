@@ -26,9 +26,6 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlpRocha236&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="FlpRocha236's GitHub Stats" />
 </div>
-<div>
-  <img src="https://streak-stats.demolab.com?user=FlpRocha236&theme=dark&hide_border=true" alt="FlpRocha236's GitHub Stats" />
-</div>
 
 ### Me encontre nas redes sociais!
 
