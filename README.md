@@ -62,8 +62,8 @@ Com 13 anos de trajetória na indústria alimentícia (**DPA Brasil - Grupo Lact
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FlpRocha236&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlpRocha236&layout=compact&theme=radical"/>
+  <img height="180" src="https://vercel-stats-edlucaz.vercel.app/api?username=FlpRocha236&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://vercel-stats-edlucaz.vercel.app/api/top-langs/?username=FlpRocha236&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 ---
