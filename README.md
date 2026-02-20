@@ -4,7 +4,7 @@
 
 ### Assistente de Garantia da Qualidade | Desenvolvedor em Formação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D00FF&center=true&vCenter=true&repeat=true&width=500&lines=QA+na+DPA+Brasil+(Lactalis);Desenvolvedor+Full+Stack+em+foco;FATEC+Araras;13+anos+de+experi%C3%AAncia+Industrial" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D00FF&center=true&vCenter=true&repeat=true&width=500&lines=QA+na+Lactalis+Brasil;Desenvolvedor+Full+Stack+em+foco;FATEC+Araras;13+anos+de+experi%C3%AAncia+Industrial" alt="Typing SVG"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://flprocha236.github.io/Portfolio-Pessoal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rafael-rocha-4b4081245/)
@@ -73,7 +73,6 @@ Com 13 anos de trajetória na indústria alimentícia (**DPA Brasil - Grupo Lact
 - [ ] **FATEC:** Concluir com excelência o 1º ano.
 - [ ] **QA Automation:** Implementar frameworks de testes com Python/Selenium.
 - [ ] **Carreira:** Conquistar a primeira oportunidade como Desenvolvedor ou QA Software.
-- [ ] **Stack:** Aprofundar em React.js e Node.js.
 
 ---
 
