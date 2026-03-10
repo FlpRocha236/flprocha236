@@ -70,7 +70,7 @@ Com 13 anos de trajetória na indústria alimentícia (**DPA Brasil - Grupo Lact
 
 ## 🎯 Metas para 2026
 
-- [ ] **FATEC:** Concluir com excelência o 1º ano.
+- [ ] **FATEC:** Concluir com excelência o 5° Semestre.
 - [ ] **QA Automation:** Implementar frameworks de testes com Python/Selenium.
 - [ ] **Carreira:** Conquistar a primeira oportunidade como Desenvolvedor ou QA Software.
 
